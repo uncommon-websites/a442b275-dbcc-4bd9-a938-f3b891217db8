@@ -16,7 +16,15 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://logo.clearbit.com/darden.com',
+		'https://logo.clearbit.com/caterpillar.com',
+		'https://logo.clearbit.com/tysonfoods.com',
+		'https://logo.clearbit.com/flour.com'
+	]}
+/>
 
 <Summary
 	generating
